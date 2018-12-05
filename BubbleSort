@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+void erzeugeArray(int *, int);
+void zeigeArrayInConsole(int *, int);
+void dreiEcksTausch(int *, int);
+void Sortieren(int *, int);
+
+
+int main()
+{
+
+
+    return 0;
+}
+
+void erzeugeArray(int * array, int anz){
+    
+    return 0;
+}
+
+void zeigeArrayInConsole(int * array, int anz){
+    
+    return 0;
+}
+
+void dreiEcksTausch(int * array, int anz){
+    
+    return 0;
+}
+
+void Sortieren(int * array, int anz){
+    
+    return 0;
+}
